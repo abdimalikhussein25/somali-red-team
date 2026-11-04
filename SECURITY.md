@@ -14,7 +14,7 @@ You will get an acknowledgement within **72 hours** and a status update within *
 
 ## Scope
 
-In scope: the content of this handbook — for example a command or link that is unsafe or points somewhere it shouldn't.
+In scope: the content of this handbook, for example a command or link that is unsafe or points somewhere it shouldn't.
 
 Out of scope: denial of service, social engineering, and issues in third-party services or dependencies (report those upstream).
 

@@ -2,7 +2,7 @@
 
 Thanks for helping! Good contributions:
 
-- **Writeups** — copy [`writeups/TEMPLATE.md`](writeups/TEMPLATE.md) to `writeups/<platform>-<name>.md`
+- **Writeups**: copy [`writeups/TEMPLATE.md`](writeups/TEMPLATE.md) to `writeups/<platform>-<name>.md`
 - **Somali translations** of any page (add `-so.md` next to the English file)
 - **Cheat-sheet entries** you actually used and verified
 - Typos, broken links, clearer explanations
@@ -15,4 +15,4 @@ Thanks for helping! Good contributions:
 ## Rules
 - Follow [ETHICS.md](ETHICS.md). No real targets, client names, credentials or live exploit code for unpatched systems.
 - Credit your sources.
-- Be kind in reviews — everyone here started as a beginner.
+- Be kind in reviews. Everyone here started as a beginner.
