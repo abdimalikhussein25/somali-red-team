@@ -11,7 +11,7 @@ ls -la /home /root 2>/dev/null
 
 ## Misconfigurations
 ```bash
-# SUID binaries — compare against GTFOBins
+# SUID binaries: compare against GTFOBins
 find / -perm -4000 -type f 2>/dev/null
 
 # Capabilities
@@ -40,6 +40,6 @@ ps aux | grep root
 
 ## Automate (after you understand the manual steps)
 - `linpeas.sh`
-- `pspy` — watch processes and cron without root
+- `pspy`: watch processes and cron without root
 
 Reference: [GTFOBins](https://gtfobins.github.io)
